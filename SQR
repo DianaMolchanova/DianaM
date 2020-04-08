@@ -1,0 +1,15 @@
+package HW;
+
+import static java.lang.Math.*;
+
+public class SQR {
+    public static void main (String[] args)
+    {
+int base = 4;
+int height = 18;
+int areaParallelogram = base*height;
+        System.out.println("Area of Parallelogram" + " "+ areaParallelogram);}
+
+
+}
+
